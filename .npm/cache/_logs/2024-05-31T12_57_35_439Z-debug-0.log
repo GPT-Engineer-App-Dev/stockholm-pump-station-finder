@@ -1,0 +1,36 @@
+0 verbose cli /nix/store/bzzs4kvjyvjjhs3rj08vqpvvzmfggvbv-nodejs-20.12.2/bin/node /nix/store/bzzs4kvjyvjjhs3rj08vqpvvzmfggvbv-nodejs-20.12.2/bin/npm
+1 info using npm@10.5.0
+2 info using node@v20.12.2
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/nix/store/bzzs4kvjyvjjhs3rj08vqpvvzmfggvbv-nodejs-20.12.2/lib/node_modules/npm/npmrc Completed in 0ms
+6 timing config:load:builtin Completed in 0ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/private/var/folders/2f/bnr06_p125g0xvyw1rgvc6m80000gn/T/nix-shell.k1v9Mj/tmp5bplgpa8/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 2ms
+11 timing config:load:file:/nix/store/kxz87i301pg9fa2ggspwz3bwc65amc6a-npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/private/var/folders/2f/bnr06_p125g0xvyw1rgvc6m80000gn/T/nix-shell.k1v9Mj/tmp5bplgpa8/.npm/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 0ms
+16 timing config:load Completed in 5ms
+17 timing npm:load:configload Completed in 5ms
+18 timing config:load:flatten Completed in 0ms
+19 timing npm:load:mkdirpcache Completed in 0ms
+20 timing npm:load:mkdirplogs Completed in 0ms
+21 verbose title npm run build
+22 verbose argv "run" "build"
+23 timing npm:load:setTitle Completed in 2ms
+24 timing npm:load:display Completed in 0ms
+25 verbose logfile logs-max:10 dir:/private/var/folders/2f/bnr06_p125g0xvyw1rgvc6m80000gn/T/nix-shell.k1v9Mj/tmp5bplgpa8/.npm/cache/_logs/2024-05-31T12_57_35_439Z-
+26 verbose logfile /private/var/folders/2f/bnr06_p125g0xvyw1rgvc6m80000gn/T/nix-shell.k1v9Mj/tmp5bplgpa8/.npm/cache/_logs/2024-05-31T12_57_35_439Z-debug-0.log
+27 timing npm:load:logFile Completed in 4ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 19ms
+31 silly logfile done cleaning log files
+32 timing command:run Completed in 1932ms
+33 verbose exit 0
+34 timing npm Completed in 1969ms
+35 info ok
